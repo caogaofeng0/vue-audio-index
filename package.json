@@ -1,0 +1,24 @@
+{
+  "name": "simple-vue-audio",
+  "version": "1.0.0",
+  "description": "first vue npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "vue",
+    "audio",
+    "javascript"
+  ],
+  "author": "cgf",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.0.0",
+    "vue-hot-reload-api": "^1.3.2",
+    "vue-html-loader": "^1.2.2",
+    "vue-loader": "^15.0.0",
+    "vue-style-loader": "^1.0.0"
+  }
+}
